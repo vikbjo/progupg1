@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Djur
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=int\ getDjur()
+comment3.params=
+comment3.target=void\ at()
+comment4.params=
+comment4.target=void\ sov()
+comment5.params=
+comment5.target=Djur()
+numComments=6
